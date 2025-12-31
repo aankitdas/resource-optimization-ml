@@ -1,6 +1,6 @@
 ---
 title: Resource Optimization ML Pipeline
-emoji: 
+emoji: 🔥
 colorFrom: blue
 colorTo: green
 sdk: docker
