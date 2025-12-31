@@ -1,0 +1,30 @@
+{
+  "control_metrics": {
+    "strategy": "Control (Random)",
+    "total_placement_pairs": 439,
+    "total_requests": 14727372.815277778,
+    "avg_latency_ms": 114.30821763097148,
+    "total_cost": 963234.2061527779,
+    "redundancy_score": 2.9266666666666667,
+    "critical_services_latency_ms": 113.80035557003376
+  },
+  "treatment_metrics": {
+    "strategy": "Treatment (ML-Optimized)",
+    "total_placement_pairs": 378,
+    "total_requests": 15929494.539814815,
+    "avg_latency_ms": 108.68522063698082,
+    "total_cost": 902063.7020092593,
+    "redundancy_score": 2.52,
+    "critical_services_latency_ms": 104.26008331417714
+  },
+  "improvements": {
+    "latency_reduction_pct": 4.919153767355334,
+    "cost_reduction_pct": 6.350532793871361,
+    "critical_latency_reduction_pct": 8.310315946745126
+  },
+  "statistical_significance": {
+    "t_statistic": 6.493542664285135,
+    "p_value": 1.0549336552475258e-10,
+    "is_significant": true
+  }
+}
