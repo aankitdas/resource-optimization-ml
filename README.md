@@ -1,8 +1,18 @@
+---
+title: Resource Optimization ML Pipeline
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+sdk_version: latest
+app_file: app.py
+pinned: false
+---
 # 🚀 Resource Optimization ML Pipeline
 
 An end-to-end machine learning solution for optimizing service placement across AWS regions, reducing latency and costs while maintaining reliability.
 
-**Live Dashboard:** [View on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/resource-optimization-ml)
+**Live Dashboard:** [View on Hugging Face Spaces](https://huggingface.co/spaces/aankitdas/resource-optimization-ml)
 
 ## 📊 Project Overview
 
